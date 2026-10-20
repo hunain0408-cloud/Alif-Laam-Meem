@@ -1,0 +1,195 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 7 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 8 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Length 5935 >>
+stream
+0.16 0.02 0.05 rg
+36 742 523 68 re f
+0.79 0.62 0.32 rg
+36 740 523 3 re f
+BT /F2 9 Tf 0.91 0.76 0.44 rg 50 792 Td (ALIF LAAM MEEM  |  TECHNICAL ARCHITECTURE & DEPLOYMENT DOCUMENTATION) Tj ET
+BT /F2 18 Tf 1 1 1 rg 50 770 Td (Website Architecture Short Note \(README\)) Tj ET
+BT /F1 9.5 Tf 0.92 0.90 0.88 rg 50 752 Td (Pakistani Luxury Ladies Designer Suits & Custom Stitching Atelier  |  Landhi Town, Karachi) Tj ET
+0.16 0.02 0.05 rg
+BT /F2 13 Tf 36 708 Td (1. How Many Pages & What Are They?) Tj ET
+0.79 0.62 0.32 RG 1.2 w
+36 703 m 559 703 l S
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 36 689 Td (The Alif Laam Meem website is built as 8 standalone HTML5 pages in the project root directory,) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 36 676.5 Td (powered by shared assets \(assets/css/style.css, assets/js/main.js, and 12 local couture photos\):) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 661.0 Td (01. index.html \(Home\): ) Tj /F1 9.2 Tf (Cinematic 3D split-screen hero with 4-edition switcher, live typewriter text,) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 648.5 Td (overlapping Quick Suit & Stitching Finder bar, infinite marquee, animated counter stats, 3D bento) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 636.0 Td (category cards, 6-suit featured grid with Unstitched/Stitched toggle, and 4-step orbital workflow.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 623.5 Td (02. about.html \(About Us\): ) Tj /F1 9.2 Tf (Brand heritage rooted in Landhi Town, Karachi; pure mill-verified fabric) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 611.0 Td (standards; artisan zardozi/dabka handwork philosophy; and atelier craftsmanship milestones.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 598.5 Td (03. collections.html \(Collections\): ) Tj /F1 9.2 Tf (Interactive 14-suit catalog covering Summer Lawn & Chikankari,) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 586.0 Td (Winter 9000 Velvet & Karandi, Luxury Raw Silk Formals, and Bridal Wear with instant category filters.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 573.5 Td (04. wedding.html \(Wedding & Heavy Wear\): ) Tj /F1 9.2 Tf (Dedicated bridal couture lounge for Barat Lehengas, Walima) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 561.0 Td (Reception Gowns, Nikkah Joras, and Heavy Formal Party Wear with bridal consultation booking.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 548.5 Td (05. stitching.html \(Stitching Studio\): ) Tj /F1 9.2 Tf (3-tier custom tailoring packages \(Seasonal, Luxury Formal,) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 536.0 Td (Bridal Couture\), interactive Bust/Waist Size Calculator, and standard Pakistani size chart \(XS-XL\).) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 523.5 Td (06. gallery.html \(Gallery / Lookbook\): ) Tj /F1 9.2 Tf (High-resolution editorial portrait lookbook with category) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 511.0 Td (filtering \(Bridal, Seasonal, Zardozi Craft Close-Ups\) and one-click Quick-View ordering modal.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 498.5 Td (07. contact.html \(Contact Us\): ) Tj /F1 9.2 Tf (Direct studio desk details for Landhi Town, Karachi, phone/WhatsApp) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 486.0 Td (\(0322-1200965\), official email \(info@aliflaammeem.pk\), FAQ accordion, and direct inquiry form.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 473.5 Td (08. cart.html \(Shopping Bag & Checkout\): ) Tj /F1 9.2 Tf (Persistent localStorage shopping bag with quantity controls,) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 461.0 Td (custom stitching/size breakdown, delivery fee calculation, and instant WhatsApp/Email order placement.) Tj ET
+0.16 0.02 0.05 rg
+BT /F2 13 Tf 36 440.5 Td (2. How Did You Use CSS?) Tj ET
+0.79 0.62 0.32 RG 1.2 w
+36 435.5 m 559 435.5 l S
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 36 421.5 Td (All styling is centralized in a zero-dependency master stylesheet \(assets/css/style.css\):) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 409.0 Td (- CSS Design Tokens \(:root\): ) Tj /F1 9.2 Tf (Defines a royal Pakistani couture palette \(--maroon-obsidian, --maroon-primary,) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 396.5 Td (--emerald-deep, --gold-primary, --ivory-bg\) paired with Cormorant Garamond & Plus Jakarta Sans fonts.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 384.0 Td (- True 3D Perspective Animations: ) Tj /F1 9.2 Tf (Uses perspective: 1200px and transform-style: preserve-3d on the) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 371.5 Td (Mughal-arched Hero stage with continuous 3D floating keyframes \(@keyframes float3DStage\), two 3D tilted) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 359.0 Td (orbital rings \(@keyframes orbit3DRing1/2\), and three floating 3D depth chips at translateZ\(55px\).) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 346.5 Td (- Interactive 3D Card Tilt & Spotlight: ) Tj /F1 9.2 Tf (Every card \(.tilt-3d\) tilts dynamically in 3D space on cursor) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 334.0 Td (movement \(perspective\(950px\) rotateX/rotateY\) while tracking a live radial gold spotlight \(--mx, --my\).) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 321.5 Td (- Strict Grid Baseline Alignment: ) Tj /F1 9.2 Tf (Multi-column CSS Grids \(.products-grid, .category-grid, .packages-grid\)) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 309.0 Td (use height: 100%; display: flex; flex-direction: column with margin-top: auto on card footers so) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 296.5 Td (all prices, stitching toggles, and buttons align on the exact same horizontal line across every row.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 284.0 Td (- Responsive Multi-Device Layout: ) Tj /F1 9.2 Tf (Media queries at 1380px, 1120px, and 720px adapt 4- and 3-column desktop) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 271.5 Td (grids into 2-column tablet layouts and 1-column mobile stacks with zero horizontal overflow.) Tj ET
+0.79 0.62 0.32 RG 0.8 w 36 38 m 559 38 l S
+0.35 0.30 0.32 rg BT /F1 8.5 Tf 36 25 Td (Alif Laam Meem  |  Website Architecture Short Note  |  Page 1 of 2) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 4827 >>
+stream
+0.16 0.02 0.05 rg 36 782 523 28 re f
+BT /F2 10 Tf 0.91 0.76 0.44 rg 48 792 Td (ALIF LAAM MEEM  |  NAVIGATION ARCHITECTURE & HOSTINGER DEPLOYMENT GUIDE) Tj ET
+0.16 0.02 0.05 rg
+BT /F2 13 Tf 36 746 Td (3. How Does Navigation Work?) Tj ET
+0.79 0.62 0.32 RG 1.2 w
+36 741 m 559 741 l S
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 36 727 Td (Navigation is synchronized across all 8 pages via assets/css/style.css and upgradeGlobalHeaderAndDock\(\)) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 36 714 Td (inside assets/js/main.js:) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 698 Td (- Unified Sticky Header & 3-Zone Alignment: ) Tj /F1 9.2 Tf (Pairs the top announcement bar \(.top-bar\) with the sticky) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 685 Td (glassmorphic header \(.site-header\). Inside .header-inner, elements are strictly aligned into 3 zones:) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 672 Td (\(1\) Brand Emblem & Title on the left, \(2\) Single-row navigation links centered with animated underline) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 659 Td (sweeps \(::after\), and \(3\) Quick-action vector buttons \(WhatsApp, Shopping Bag with live counter badge,) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 646 Td (and the 'Custom Stitch' pill CTA\) on the right.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 633 Td (- Centered Dropdown Sub-Menus & Hover Bridge: ) Tj /F1 9.2 Tf (Sub-categories are grouped into 3 centered dropdowns) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 620 Td (\(Collections, Bridal & Heavy Wear, and Atelier & More\) so top-level links never wrap onto a second line.) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 607 Td (Each .dropdown-menu opens centered beneath its trigger \(left: 50%; transform: translate\(-50%, 0\)\)) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 594 Td (with an invisible ::before hover bridge so diagonal cursor movement never closes the menu prematurely.) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 581 Td (Every dropdown item includes a custom vector SVG icon badge, title, and subtitle.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 568 Td (- URL Query-Parameter Deep Linking: ) Tj /F1 9.2 Tf (Dropdown links and the homepage Quick Suit Finder pass URL) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 555 Td (parameters \(e.g., collections.html?filter=summer, collections.html?filter=winter, wedding.html?filter=barat\).) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 542 Td (On page load, initProductGrids\(\) reads URLSearchParams, activates the matching filter pill, and renders) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 529 Td (the corresponding suits automatically without requiring a backend server.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 516 Td (- Mobile Drawer, Left Rail & Floating Stack: ) Tj /F1 9.2 Tf (On viewports <= 1120px, #mobileMenuBtn toggles a touch-friendly) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 503 Td (slide-down accordion menu. Users also have a Top Scroll Progress Bar \(.scroll-progress\), a Desktop Left) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 490 Td (Quick-Access Rail \(.social-rail\), and a Right Floating Action Stack \(.floating-dock\) featuring) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 54 477 Td (Back-to-Top, Email, Shake-Call, and Double-Ring Pulsing WhatsApp buttons with slide-out tooltips.) Tj ET
+0.16 0.02 0.05 rg
+BT /F2 13 Tf 36 456 Td (4. GitHub & Hostinger Deployment Guide) Tj ET
+0.79 0.62 0.32 RG 1.2 w
+36 451 m 559 451 l S
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 437 Td (A. Upload Code to GitHub: ) Tj /F1 9.2 Tf (Run inside the project folder to push to your GitHub repository:) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 424 Td (git init  &&  git add .  &&  git commit -m "Initial release: Alif Laam Meem couture website") Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 411 Td (git branch -M main  &&  git remote add origin https://github.com/<user>/<repo>.git  &&  git push -u origin main) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 394 Td (B. Deploy on Hostinger \(Option 1 - File Manager\): ) Tj /F1 9.2 Tf (Log in to Hostinger hPanel -> Files -> File Manager -> open public_html.) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 381 Td (Upload Alif_Laam_Meem_Hostinger_Deploy.zip into public_html and Extract it so index.html, all 7 other) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 368 Td (.html pages, and the assets/ directory sit directly inside public_html/.) Tj ET
+0.12 0.09 0.10 rg
+BT /F2 9.2 Tf 44 351 Td (C. Deploy on Hostinger \(Option 2 - Git Auto-Deploy\): ) Tj /F1 9.2 Tf (In Hostinger hPanel -> Advanced -> Git, paste your GitHub repository URL,) Tj ET
+0.12 0.09 0.10 rg
+BT /F1 9.2 Tf 58 338 Td (set branch to main, leave the install path blank \(public_html\), and click Deploy.) Tj ET
+0.79 0.62 0.32 RG 0.8 w 36 38 m 559 38 l S
+0.35 0.30 0.32 rg BT /F1 8.5 Tf 36 25 Td (Alif Laam Meem  |  Landhi Town, Karachi  |  0322-1200965  |  info@aliflaammeem.pk  |  Page 2 of 2) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000263 00000 n 
+0000000399 00000 n 
+0000000496 00000 n 
+0000000598 00000 n 
+0000006585 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+11464
+%%EOF
